@@ -163,7 +163,7 @@ Then, whenever you use `font-family: 'Roboto'`, `fontaine` will add the override
 ## 💻 Development
 
 - Clone this repository
-- Enable [Corepack](https://github.com/nodejs/corepack) using `corepack enable` (use `npm i -g corepack` for Node.js < 16.10)
+- Enable [Corepack](https://github.com/nodejs/corepack) using `corepack enable`
 - Install dependencies using `pnpm install`
 - Run interactive tests using `pnpm dev`; launch a vite server using source code with `pnpm demo:dev`
 
