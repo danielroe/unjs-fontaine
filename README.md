@@ -186,7 +186,7 @@ Published under [MIT License](./LICENCE).
 [npm-version-src]: https://img.shields.io/npm/v/fontaine?style=flat-square
 [npm-version-href]: https://npmjs.com/package/fontaine
 [npm-downloads-src]: https://img.shields.io/npm/dm/fontaine?style=flat-square
-[npm-downloads-href]: https://npmjs.com/package/fontaine
+[npm-downloads-href]: https://npm.chart.dev/fontaine
 [github-actions-src]: https://img.shields.io/github/workflow/status/unjs/fontaine/ci/main?style=flat-square
 [github-actions-href]: https://github.com/unjs/fontaine/actions?query=workflow%3Aci
 [codecov-src]: https://img.shields.io/codecov/c/gh/unjs/fontaine/main?style=flat-square
